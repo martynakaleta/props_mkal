@@ -3,4 +3,4 @@
 
 ## todo ML:
 
-- [ ] write who rules in the hood 
+- [x] write who rules in the hood 
